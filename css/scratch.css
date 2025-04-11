@@ -1,0 +1,122 @@
+body {
+    background-color: #eedada;
+    font-family: Arial, Helvetica, sans-serif
+    
+}
+li {
+    font-size: 12.98px;
+}
+.podium-title {
+    font-weight: bold;
+    font-size: 18px;
+    color: rgb(22, 54, 114);
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+
+.maincontent {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 5px rgb(43, 56, 96);
+}
+.mbody {
+    top: 114px;
+    left: 114px;
+    right: 114px;
+    bottom: 39px;
+    padding-right: 5px
+}
+.center {text-align: center;}
+
+.common {
+    border: 3px solid rgb(43, 56, 96);
+    width: 590px;
+    height: auto;
+    padding-left: 10px;
+    padding-top: 0;
+    float: left;
+    margin-right: 5px;
+    
+}
+
+.rightbox {
+    border: 3px solid rgb(43, 56, 96);
+    width: 10px;
+    height: auto;
+    padding-left: 10px;
+    float:right;
+    text-align: center;
+    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-right: 10px;
+    margin-left: 8px;
+    position: relative;
+}
+
+
+.row {
+    content:"";
+    clear: both;
+    display: table;
+}
+
+.margin {margin: 6.46px;}
+
+.boxtitle {
+    font-weight: bold;
+    font-size: 20px;
+    color: black;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+.vidbox {
+    border: 3px solid rgb(43, 56, 96);
+    width: 500px;
+    height: auto;
+    padding-top: 10px;
+    float: right;
+    /* margin-right: 5px; */
+    position: relative;
+}
+
+.title {
+    font-style: italic;
+    color: black;
+    font-weight: bold;
+}
+
+.factbox {
+    border: 3px solid rgb(43, 56, 96);
+    width: 500px;
+    height: auto;
+    padding-top: 10px;
+    float: right;
+    margin-top: 10px;
+    /* margin-right: 5px; */
+    position: relative;
+}
+
+.tbox {
+    border: 3px solid rgb(43, 56, 96);
+    width: 700px;
+    height: auto;
+    padding-top: 10px;
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+.bluemainwords {
+    color: rgb(43, 56, 96);
+    font-weight: bold;
+    text-decoration: none;
+}
